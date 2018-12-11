@@ -1,0 +1,8 @@
+{
+  "name": "js-ajax-upload-file",
+  "version": "0.0.1",
+  "description": "js ajax upload file by XMLHttpRequest 2.x",
+  "dependencies": {
+
+  }
+}
